@@ -473,6 +473,10 @@ textarea {
     border: 1px solid #ccc;
 }
 
+.contact-form div.col {
+    margin-top: 30px;
+}
+
 textarea {
     height: 100px;
 }

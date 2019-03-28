@@ -473,6 +473,10 @@ textarea {
     border: 1px solid #ccc;
 }
 
+label {
+    vertical-align: center;
+}
+
 textarea {
     height: 100px;
 }

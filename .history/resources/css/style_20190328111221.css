@@ -473,6 +473,10 @@ textarea {
     border: 1px solid #ccc;
 }
 
+label {
+    margin-top: 6.3px;
+}
+
 textarea {
     height: 100px;
 }
