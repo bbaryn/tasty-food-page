@@ -8,10 +8,12 @@
     box-sizing: border-box;
 }
 
-html {
+html,
+body {
     background-color: #fff;
     color: #555;
     font-family: 'Montserrat', 'Arial', sans-serif;
+    overflow-x: hidden;
     font-weight: 300;
     font-size: 20px;
     text-rendering: optimizeLegibility;
@@ -322,10 +324,12 @@ header {
     border: 2px solid #e67e22;
     display: block;
     border-radius: 50%;
+    margin-top: 8px;
     height: 55px;
     width: 55px;
     text-align: center;
     padding: 8px;
+    padding-top: 10px;
     float: left;
     font-size: 150%;
     margin-right: 25px;
